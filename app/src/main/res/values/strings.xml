@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MAD Project</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blog_1" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_2" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_3" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_4" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_5" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_6" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_7" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_8" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_9" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+    <string name="blog_10" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</string>
+
+    <!-- Headings -->
+    <string name="head_1">This is Blog 1</string>
+    <string name="head_2">This is Blog 2</string>
+    <string name="head_3">This is Blog 3</string>
+    <string name="head_4">This is Blog 4</string>
+    <string name="head_5">This is Blog 5</string>
+    <string name="head_6">This is Blog 6</string>
+    <string name="head_7">This is Blog 7</string>
+    <string name="head_8">This is Blog 8</string>
+    <string name="head_9">This is Blog 9</string>
+    <string name="head_10">This is Blog 10</string>
+
+</resources>
+
